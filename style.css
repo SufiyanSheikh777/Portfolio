@@ -161,7 +161,7 @@ h1 {
 }
 
 .works > button {
-  background-image: linear-gradient(to right, #c9184a, #ff8fa3,#ff4d6d);
+  background-image: linear-gradient(to right, #c9184a, #ff8fa3);
   background-size: 100% 100%;
   background-position: 0% 0%;
   color: #fff;
